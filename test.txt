@@ -1,1 +1,1 @@
-hello
+rz 브랜치 생성함. ipynb에서 print('hi')를 삭제함
